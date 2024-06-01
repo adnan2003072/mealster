@@ -2,7 +2,7 @@
 
 ## Project setup
 
-This guide will walk you through setting up the **Ollama** project.
+This guide will walk you through setting up this project on your local machine.
 
 ### 1. Install Ollama
 

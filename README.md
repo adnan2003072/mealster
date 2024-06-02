@@ -63,3 +63,10 @@ npm run dev
 This will start the development server for the Next.js app.
 Once both the Flask API and Next.js app are running, you can access the project in your web browser from this url: `http://localhost:3000`.
 That's it! You've successfully set up the Ollama project. Happy coding! 🚀
+
+### Screenshots
+
+![landingpage](https://github.com/adnan2003072/mealster/assets/116649345/f3a251dc-595d-4760-a8d2-18d9d82e057d)
+![chatbot](https://github.com/adnan2003072/mealster/assets/116649345/d902aeba-9abd-42a7-8179-b966a63bd6fe)
+
+
